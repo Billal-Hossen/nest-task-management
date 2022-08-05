@@ -1,0 +1,17 @@
+{
+  "PORT": 3000,
+  "API": {
+    "PREFIX": "api/v1",
+    "TITLE": "Task Management",
+    "DESC": "Task Management",
+    "VERSION": "1.0"
+  },
+  "DATABASE": {
+    "TYPE": "postgres",
+    "PORT": 5432,
+    "HOST": "localhost",
+    "USER": "postgres",
+    "PASSWORD": "pgadmin",
+    "DATABASE": "taskmanagement"
+  }
+}
